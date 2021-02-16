@@ -1,6 +1,6 @@
 # Blockchain_using_Python
 
-In this project I have created a blockchain from scratch using Python. Here are the following imports for my application: 
+In this project I have created a blockchain from scratch using Python. Here are the following import nodules for my application: 
 1. Json 
 2. hashlib 
 3. PyMongo
